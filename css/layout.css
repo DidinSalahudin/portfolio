@@ -366,15 +366,15 @@ ul#nav li.current a { color: #F06000; }
    -webkit-animation: laravel 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes php {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-moz-keyframes illustrator {
+@-moz-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes reactjs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -390,16 +390,24 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-moz-keyframes codeigniter {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes laravel {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes php {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
-@-webkit-keyframes illustrator {
+@-webkit-keyframes javascript {
   0%   { width: 0px;  }
   100% { width: 55%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes reactjs {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
@@ -412,6 +420,14 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 80%;  }
 }
 @-webkit-keyframes jquery {
+  0%   { width: 0px;  }
+  100% { width: 50%;  }
+}
+@-webkit-keyframes codeigniter {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes laravel {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
